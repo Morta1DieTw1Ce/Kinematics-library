@@ -2,6 +2,10 @@
 
 Kinematics is a c libary for calculating motion of objects
 
+# How to install
+
+To install the library you need to type git clone https://github.com/Morta1DieTw1Ce/Kinematics-library/
+
 # How to use
 
 First we need to include the header file by typing 
